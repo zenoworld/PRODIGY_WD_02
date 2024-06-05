@@ -55,8 +55,6 @@ box-shadow:  11px 11px 22px #242323,
     border-radius: 5px;
     font-size: 1.2em;
 }
-
-/* Responsive Styles */
 @media (max-width: 600px) {
     .display {
         font-size: 2em;
